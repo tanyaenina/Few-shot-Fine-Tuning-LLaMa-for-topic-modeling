@@ -8,7 +8,9 @@ Given the computational constraints, I utilized Google Colab with a T4 GPU.
 
 ## Challenges and Limitations
 
-Due to some problems in implementation and lack of time I didn't manage to try other ideas suggested in related literature. I found approaches described in the following papers quite promising for the defined objective:
+Due to some technical problems that I encountered while implementing a solution and lack of time, unfortunately I didn't manage to try other ideas suggested in related literature. So I uploaded just the simplest solution that I found. 
+
+Approaches described in the following papers I found quite promising and applicable for the defined objective:
 
 - Wang, Han & Prakash, Nirmalendu & Hoang, Nguyen & Hee, Ming Shan & Naseem, Usman & Lee, Roy Ka-Wei. (2023). Prompting Large Language Models for Topic Modeling. (the system prompt was taken from this article and adjusted for only one topic-output)
   
