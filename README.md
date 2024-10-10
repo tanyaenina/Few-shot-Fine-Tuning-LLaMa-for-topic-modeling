@@ -1,4 +1,4 @@
-# SummAI NLP Challenge
+# Finetuning LLaMA-2 model for topic modeling
 
 The objective of this project is to fine-tune the LLaMA-2 model using a few-shot prompting strategy for topic modeling. 
 
